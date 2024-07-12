@@ -2,6 +2,10 @@
 
 A simple Python script to download YouTube videos using `yt-dlp`.
 
+### Disclaimer
+
+This script is intended for personal use only. It is not intended for any commercial use, redistribution, or any other activity that would violate YouTube's terms of service. Please respect the rights of content creators and use this script responsibly.
+
 ## Requirements
 
 - Python 3.x
