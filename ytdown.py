@@ -17,7 +17,7 @@ def download_video(url, save_path):
     except Exception as e:
         print(e)
 
-url = "https://www.youtube.com/watch?v=KlyPKbrlBsQ"
-save_path = "/Users/hckmar/Documents/Code/python/automations/yt-downloader/videos"
+url = "youtbe-link" # We replace the url of the video we want to download
+save_path = "your_path+the-folder-I-created" #the path to save the video, I use pwd to make it easier and defined a folder in the root called videos.
 
 download_video(url, save_path)
